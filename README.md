@@ -8,8 +8,7 @@ Please read the overview [here.](http://atdevoutreach.viewdocs.io/codeChallenge0
 ### Steps:
 1. Head over to the code challenge [here](atdevoutreach.viewdocs.io/codeChallenge05018/CodeChallenge05018/) to get acquainted.
 
-2.  Check out the format for submitting your code [here]
-(http://atdevoutreach.viewdocs.io/codeChallenge05018/CodeChallengeSteps/)
+2.  Check out the format for submitting your code [here](http://atdevoutreach.viewdocs.io/codeChallenge05018/CodeChallengeSteps/)
 
 3.  Make sure when creating a branch to use your correct phone Number, as this is what we will use to get back to you.
 > NB: As a branch-name you can also use your email.
